@@ -22,33 +22,40 @@
 ---
 
 ### 🛠️ Tech Stack  
-<p align="center">
 
-##### Frontend  
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/js/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60" style="margin: 10px;"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
-##### Backend & Databases  
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" width="60" height="60" style="margin: 10px;"/>
+<div style="flex-basis: 100%;">
+  <h5>Frontend</h5>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/js/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
+</div>
 
-##### Tools & Others  
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/wails/wails.svg" alt="Wails" width="60" height="60" style="margin: 10px;"/>
+<div style="flex-basis: 100%;">
+  <h5>Backend & Databases</h5>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" width="70" height="70" style="margin: 8px;"/>
+</div>
 
-</p>
+<div style="flex-basis: 100%;">
+  <h5>Tools & Others</h5>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/wails/wails.svg" alt="Wails" width="70" height="70" style="margin: 8px;"/>
+</div>
+
+</div>
 
 ---
 
@@ -72,13 +79,13 @@
   </a>
 </p>
 
-### 📈 Profile Stats at a Glance
+### 📈 Quick Stats
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-6K+-blue?style=for-the-badge)
-![GitHub Repos](https://img.shields.io/badge/Public%20Repos-10+-brightgreen?style=for-the-badge&logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-2K+-7F7DFF?style=for-the-badge&logo=git)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-10+-brightgreen?style=for-the-badge&logo=github)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-15+-yellow?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-50+-ff69b4?style=for-the-badge&logo=github)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge)
 
 </div>
 
