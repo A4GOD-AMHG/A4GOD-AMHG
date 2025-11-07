@@ -43,6 +43,7 @@
   <h5>Backend & Databases</h5>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70" style="margin: 8px;"/>

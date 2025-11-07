@@ -12,118 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install PyGithub requests
+          node-version: "18"
 
       - name: Generate GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.GITHUBPAT || secrets.GITHUB_TOKEN }}
-        run: |
-          python << 'EOF'
-          import os
-          import json
-          import requests
-          from github import Github
-          
-          token = os.getenv('GH_TOKEN')
-          g = Github(token, per_page=100)
-          user = g.get_user('A4GOD-AMHG')
-          
-          stats = {
-              'public_repos': user.public_repos,
-              'private_repos': 0,
-              'total_repos': 0,
-              'followers': user.followers,
-              'following': user.following,
-              'total_commits': 0,
-              'languages': {}
-          }
-          
-          total_repos = 0
-          public_repos = 0
-          private_repos = 0
-          language_stats = {}
-          
-          print("🔍 Fetching repositories...")
-          
-          for repo in user.get_repos(type='all'):
-              total_repos += 1
-              if repo.private:
-                  private_repos += 1
-              else:
-                  public_repos += 1
-              
-              if repo.language:
-                  if repo.language not in language_stats:
-                      language_stats[repo.language] = 0
-                  language_stats[repo.language] += 1
-          
-          print(f"✅ Total Repos: {total_repos}")
-          print(f"📊 Public: {public_repos}, Private: {private_repos}")
-          
-          print("📝 Fetching commits using GraphQL...")
-          
-          query = """
-          query($userName:String!) {
-            user(login: $userName) {
-              repositories(first: 100, affiliations: [OWNER, COLLABORATOR]) {
-                nodes {
-                  object(expression: "HEAD") {
-                    ... on Commit {
-                      history(first: 0) {
-                        totalCount
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-          """
-          
-          try:
-              url = "https://api.github.com/graphql"
-              headers = {"Authorization": f"Bearer {token}"}
-              
-              response = requests.post(
-                  url,
-                  json={"query": query, "variables": {"userName": "A4GOD-AMHG"}},
-                  headers=headers,
-                  timeout=30
-              )
-              
-              if response.status_code == 200:
-                  data = response.json()
-                  if 'data' in data and data['data']['user']:
-                      repos = data['data']['user']['repositories']['nodes']
-                      total_commits = 0
-                      for repo in repos:
-                          if repo and repo.get('object') and repo['object'].get('history'):
-                              total_commits += repo['object']['history']['totalCount']
-                      stats['total_commits'] = total_commits
-                      print(f"✅ Total Commits: {total_commits}")
-          except Exception as e:
-              print(f"⚠️ Could not fetch commits: {e}")
-              stats['total_commits'] = 0
-          
-          stats['total_repos'] = total_repos
-          stats['private_repos'] = private_repos
-          stats['languages'] = dict(sorted(language_stats.items(), key=lambda x: x[1], reverse=True)[:8])
-          
-          with open('.github/stats.json', 'w') as f:
-              json.dump(stats, f, indent=2)
-          
-          print(f"\n📈 Top Languages: {stats['languages']}")
-          print("✨ Stats generated successfully!")
-          
-          EOF
+          GITHUBPAT: ${{ secrets.GITHUBPAT || secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats.js
 
       - name: Commit changes
         run: |

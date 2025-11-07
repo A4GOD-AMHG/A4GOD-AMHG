@@ -1,0 +1,179 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const https = require('https');
+
+const token = process.env.GITHUBPAT;
+const username = 'A4GOD-AMHG';
+
+if (!token) {
+    console.error('❌ Error: GITHUBPAT environment variable not set');
+    console.error('   Usage: export GITHUBPAT=your_github_token');
+    process.exit(1);
+}
+
+async function makeGraphQLRequest(query, variables = {}) {
+    return new Promise((resolve, reject) => {
+        const payload = JSON.stringify({ query, variables });
+        
+        const options = {
+            hostname: 'api.github.com',
+            path: '/graphql',
+            method: 'POST',
+            headers: {
+                'Authorization': `Bearer ${token}`,
+                'Content-Type': 'application/json',
+                'Content-Length': payload.length,
+                'User-Agent': 'GitHub-Stats-Generator'
+            }
+        };
+        
+        const req = https.request(options, (res) => {
+            let data = '';
+            
+            res.on('data', (chunk) => {
+                data += chunk;
+            });
+            
+            res.on('end', () => {
+                try {
+                    resolve(JSON.parse(data));
+                } catch (e) {
+                    reject(e);
+                }
+            });
+        });
+        
+        req.on('error', reject);
+        req.write(payload);
+        req.end();
+    });
+}
+
+async function fetchUserData() {
+    const query = `
+        query($userName:String!) {
+            user(login: $userName) {
+                followers {
+                    totalCount
+                }
+                following {
+                    totalCount
+                }
+                repositories(first: 100, affiliations: [OWNER, COLLABORATOR]) {
+                    totalCount
+                    nodes {
+                        isPrivate
+                        primaryLanguage {
+                            name
+                        }
+                        stargazerCount
+                        forks {
+                            totalCount
+                        }
+                        object(expression: "HEAD") {
+                            ... on Commit {
+                                history(first: 0) {
+                                    totalCount
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    `;
+    
+    return makeGraphQLRequest(query, { userName: username });
+}
+
+async function generateStats() {
+    try {
+        console.log('🔍 Fetching GitHub stats for', username, '...\n');
+        
+        const response = await fetchUserData();
+        
+        if (response.errors) {
+            console.error('❌ GraphQL Error:', response.errors);
+            process.exit(1);
+        }
+        
+        const user = response.data.user;
+        
+        console.log('📦 Processing repositories...');
+        
+        let totalRepos = 0;
+        let publicRepos = 0;
+        let privateRepos = 0;
+        let totalCommits = 0;
+        let totalStars = 0;
+        let totalForks = 0;
+        const languageStats = {};
+        
+        user.repositories.nodes.forEach(repo => {
+            if (!repo) return;
+            
+            totalRepos++;
+            
+            if (repo.isPrivate) {
+                privateRepos++;
+            } else {
+                publicRepos++;
+            }
+            
+            totalStars += repo.stargazerCount || 0;
+            totalForks += (repo.forks?.totalCount || 0);
+            
+            if (repo.object && repo.object.history) {
+                totalCommits += repo.object.history.totalCount || 0;
+            }
+            
+            if (repo.primaryLanguage && repo.primaryLanguage.name) {
+                const lang = repo.primaryLanguage.name;
+                languageStats[lang] = (languageStats[lang] || 0) + 1;
+            }
+        });
+        
+        console.log(`✅ Found ${totalRepos} repos (${publicRepos} public, ${privateRepos} private)`);
+        console.log(`✅ Total commits: ${totalCommits}`);
+        
+        const sortedLanguages = Object.entries(languageStats)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 8)
+            .reduce((obj, [key, val]) => {
+                obj[key] = val;
+                return obj;
+            }, {});
+        
+        const stats = {
+            followers: user.followers.totalCount,
+            following: user.following.totalCount,
+            public_repos: publicRepos,
+            private_repos: privateRepos,
+            total_repos: totalRepos,
+            total_commits: totalCommits,
+            total_stars: totalStars,
+            total_forks: totalForks,
+            top_languages: sortedLanguages
+        };
+        
+        // Write stats to file
+        const statsDir = '.github';
+        if (!fs.existsSync(statsDir)) {
+            fs.mkdirSync(statsDir, { recursive: true });
+        }
+        
+        fs.writeFileSync(`${statsDir}/stats.json`, JSON.stringify(stats, null, 2));
+        
+        console.log('\n📈 Top Languages:', sortedLanguages);
+        console.log('✨ Stats generated successfully!');
+        
+        return stats;
+        
+    } catch (error) {
+        console.error('❌ Error:', error.message);
+        process.exit(1);
+    }
+}
+
+generateStats();
