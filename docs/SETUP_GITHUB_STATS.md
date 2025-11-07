@@ -1,28 +1,3 @@
-# GitHub Stats Configuration Guide
-
-Este documento explica cómo configurar las estadísticas automáticas de GitHub que incluyen repositorios privados.
-
-## ⚙️ Setup Requerido
-
-### 1. Crear un GitHub Personal Access Token (PAT)
-
-1. Ve a https://github.com/settings/tokens/new
-2. Dale un nombre descriptivo: `GitHub Stats Action`
-3. Selecciona los permisos:
-   - ✅ `repo` (acceso a repositorios públicos y privados)
-   - ✅ `read:user` (leer información del usuario)
-   - ✅ `read:repo_hook` (leer webhooks)
-
-4. Copia el token generado
-
-### 2. Añadir el Token como Secreto de GitHub
-
-1. Ve a tu repositorio: https://github.com/A4GOD-AMHG/A4GOD-AMHG
-2. Settings → Secrets and variables → Actions
-3. Haz clic en "New repository secret"
-4. Nombre: `GITHUB_PAT`
-5. Valor: Pega el token que copiaste
-6. Haz clic en "Add secret"
 
 ### 3. Ejecutar el Workflow Manualmente
 

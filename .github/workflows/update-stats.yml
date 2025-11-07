@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_PATH || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUBPAT || secrets.GITHUB_TOKEN }}
         run: |
           python << 'EOF'
           import os
