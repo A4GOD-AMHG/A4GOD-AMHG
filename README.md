@@ -84,8 +84,9 @@
 <div align="center">
 
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-4889-7F7DFF?style=for-the-badge&logo=git)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-53-4a90e2?style=for-the-badge&logo=github)
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-23-brightgreen?style=for-the-badge&logo=github)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-0-yellow?style=for-the-badge&logo=github)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-30-yellow?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-17-ff69b4?style=for-the-badge&logo=github)
 
 </div>
