@@ -68,16 +68,19 @@
 ### 🔥 GitHub Activity  
 <p align="center">
   <a href="https://github.com/A4GOD-AMHG">
-    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=4394FF&point=FFFFFF" />
+    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=4394FF&point=FFFFFF&area=true" />
   </a>
 </p>
 
-### 💼 More GitHub Metrics  
-<p align="center">
-  <a href="https://github.com/A4GOD-AMHG">
-    <img alt="GitHub Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A4GOD-AMHG&theme=nord_dark" />
-  </a>
-</p>
+### 📈 Profile Stats at a Glance
+<div align="center">
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-6K+-blue?style=for-the-badge)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-10+-brightgreen?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-50+-ff69b4?style=for-the-badge&logo=github)
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge)
+
+</div>
 
 ---
 
