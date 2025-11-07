@@ -82,10 +82,10 @@
 ### 📈 Quick Stats
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-2K+-7F7DFF?style=for-the-badge&logo=git)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-10+-brightgreen?style=for-the-badge&logo=github)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-15+-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-50+-ff69b4?style=for-the-badge&logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-4889-7F7DFF?style=for-the-badge&logo=git)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-23-brightgreen?style=for-the-badge&logo=github)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-0-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-17-ff69b4?style=for-the-badge&logo=github)
 
 </div>
 
