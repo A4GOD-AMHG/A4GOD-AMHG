@@ -2,39 +2,39 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-      
+          python-version: "3.11"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install PyGithub requests
-      
+
       - name: Generate GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_PATH || secrets.GITHUB_TOKEN }}
         run: |
           python << 'EOF'
           import os
           import json
           from github import Github
-          
+
           token = os.getenv('GH_TOKEN')
           g = Github(token)
           user = g.get_user('A4GOD-AMHG')
-          
+
           stats = {
               'public_repos': user.public_repos,
               'total_repos': 0,
@@ -44,11 +44,11 @@ jobs:
               'total_commits': 0,
               'languages': {}
           }
-          
+
           total_repos = 0
           total_commits = 0
           language_stats = {}
-          
+
           for repo in user.get_repos():
               total_repos += 1
               
@@ -62,20 +62,20 @@ jobs:
                   if repo.language not in language_stats:
                       language_stats[repo.language] = 0
                   language_stats[repo.language] += 1
-          
+
           stats['total_repos'] = total_repos
           stats['total_commits'] = total_commits
           stats['languages'] = dict(sorted(language_stats.items(), key=lambda x: x[1], reverse=True)[:8])
-          
+
           with open('.github/stats.json', 'w') as f:
               json.dump(stats, f, indent=2)
-          
+
           print(f"Total Repos: {total_repos}")
           print(f"Total Commits: {total_commits}")
           print(f"Top Languages: {stats['languages']}")
-          
+
           EOF
-      
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
