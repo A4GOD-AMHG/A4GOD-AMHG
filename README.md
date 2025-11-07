@@ -55,14 +55,28 @@
 ### 📊 GitHub Stats  
 <p align="center">  
   <a href="https://github.com/A4GOD-AMHG">  
-    <img alt="Alexis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&icon_color=4394FF" />
+    <img alt="Alexis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&icon_color=4394FF&count_private=true&include_all_commits=true" />
   </a>  
 </p>
 
 <p align="center">  
   <a href="https://github.com/A4GOD-AMHG">  
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   </a>  
+</p>
+
+### 🔥 GitHub Activity  
+<p align="center">
+  <a href="https://github.com/A4GOD-AMHG">
+    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=4394FF&point=FFFFFF" />
+  </a>
+</p>
+
+### 💼 More GitHub Metrics  
+<p align="center">
+  <a href="https://github.com/A4GOD-AMHG">
+    <img alt="GitHub Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A4GOD-AMHG&theme=nord_dark" />
+  </a>
 </p>
 
 ---
