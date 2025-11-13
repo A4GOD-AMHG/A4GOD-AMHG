@@ -63,7 +63,7 @@
 ### 📊 GitHub Stats  
 <p align="center">  
   <a href="https://github.com/A4GOD-AMHG">  
-    <img alt="Alexis's GitHub stats" src=".github/stats.svg" />
+    <img alt="Alexis's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=A4GOD-AMHG&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF" />
   </a>  
 </p>
 
@@ -73,9 +73,10 @@
   </a>  
 </p>
 
+### 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/A4GOD-AMHG">
-    <img alt="A4GOD-AMHG's Contribution Graph" src="https://ghchart.rshah.org/A4GOD-AMHG?bg_color=0D1117&color=7F7DFF&line=4394FF&point=FFFFFF&area=true&hide_border=true" />
+    <img alt="A4GOD-AMHG's Contribution Graph" src="https://ghchart.rshah.org/7F7DFF/A4GOD-AMHG" />
   </a>
 </p>
 
