@@ -168,12 +168,64 @@ async function generateStats() {
         console.log('\n📈 Top Languages:', sortedLanguages);
         console.log('✨ Stats generated successfully!');
         
+        generateSvg(stats);
+        
         return stats;
         
     } catch (error) {
         console.error('❌ Error:', error.message);
         process.exit(1);
     }
+}
+
+function generateSvg(stats) {
+    const template = `
+    <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .header {
+                font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+                fill: #7F7DFF;
+            }
+            .stat {
+                font: 400 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+                fill: #FFFFFF;
+            }
+            .value {
+                font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+                fill: #FFFFFF;
+            }
+        </style>
+        <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0D1117" stroke="#00000000"/>
+        <g transform="translate(25, 35)">
+            <text x="0" y="0" class="header">Alexis's GitHub Stats</text>
+        </g>
+        <g transform="translate(0, 55)">
+            <g transform="translate(25, 20)">
+                <text x="0" y="0" class="stat">Total Stars:</text>
+                <text x="150" y="0" class="value">${stats.total_stars}</text>
+            </g>
+            <g transform="translate(25, 45)">
+                <text x="0" y="0" class="stat">Total Commits:</text>
+                <text x="150" y="0" class="value">${stats.total_commits}</text>
+            </g>
+            <g transform="translate(25, 70)">
+                <text x="0" y="0" class="stat">Total Forks:</text>
+                <text x="150" y="0" class="value">${stats.total_forks}</text>
+            </g>
+            <g transform="translate(25, 95)">
+                <text x="0" y="0" class="stat">Followers:</text>
+                <text x="150" y="0" class="value">${stats.followers}</text>
+            </g>
+        </g>
+    </svg>
+    `;
+
+    const statsDir = '.github';
+    if (!fs.existsSync(statsDir)) {
+        fs.mkdirSync(statsDir, { recursive: true });
+    }
+    fs.writeFileSync(`${statsDir}/stats.svg`, template);
+    console.log('✨ SVG generated successfully!');
 }
 
 generateStats();

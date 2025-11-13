@@ -26,6 +26,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add .github/stats.json || true
+          git add .github/stats.json .github/stats.svg || true
           git commit -m "chore: update github stats" || exit 0
           git push || exit 0
