@@ -19,13 +19,12 @@ jobs:
 
       - name: Generate GitHub Stats
         env:
-          GITHUBPAT: ${{ secrets.GITHUBPAT || secrets.GITHUB_TOKEN }}
+          GITHUBPAT: ${{ secrets.GITHUBPAT }}
         run: node scripts/generate-stats.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
-          git add .github/stats.json .github/stats.svg || true
-          git commit -m "chore: update github stats" || exit 0
-          git push || exit 0
+          git config --local user.name "GitHub Action"
+          git add .github/stats.svg .github/stats.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update GitHub stats" && git push)
