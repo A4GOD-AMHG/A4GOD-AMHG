@@ -22,6 +22,14 @@ jobs:
           GITHUBPAT: ${{ secrets.GITHUBPAT }}
         run: node scripts/generate-stats.js
 
+      - name: Upload Stats Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-stats
+          path: |
+            .github/stats.svg
+            .github/stats.json
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"

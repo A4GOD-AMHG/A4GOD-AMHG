@@ -61,7 +61,7 @@
 
 ---
 
-### 🚀 My Creations
+### 🚀 Projects I've Contributed To
 
 <div align="center">
   <a href="https://compay.market/" target="_blank">
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Comunidad%20Reseteat-Visit-7F7DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Comunidad Reseteat" />
   </a>
   <a href="https://www.lopizzigayasociados.com.mx/" target="_blank">
-    <img src="https://img.shields.io/badge/Lopizzigay%20Asociados-Visit-4394FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lopizzigay Asociados" />
+    <img src="https://img.shields.io/badge/Lopez%20Ziga%20y%20Asociados-Visit-4394FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lopez Ziga y Asociados" />
   </a>
 </div>
 
@@ -124,6 +124,10 @@
   <a href="mailto:alexismanuelhg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
   <a href="https://github.com/A4GOD-AMHG"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/alexismanuelhurtado/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://www.facebook.com/alexismanuel.hurtadogarcia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/a4god_amhg"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/alexismanuel.hurtadogarcia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/5355529865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
