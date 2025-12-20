@@ -1,12 +1,12 @@
 <h1 align="center">
-  <span id="typed" style="color:#7F7DFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span id="typed" style="color:#8605C2FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
      Hi 👋, I'm Alexis Manuel Hurtado García
   </span>
 </h1>
-<h3 align="center" style="color:#4394FF;">💻 Cuban Software Engineer | Full-stack & Mobile Developer | Passionate about clean, scalable code 🚀</h3>
+<h3 align="center" style="color:#8605C2FF;">💻 Cuban Software Engineer | Full-stack & Mobile Developer | Passionate about clean, scalable code 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=Profile%20views&color=4394FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=Profile%20views&color=9C27B0&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://compay.market/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #7F7DFF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://compay.market/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">Compay Market</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -76,7 +76,7 @@
   </a>
 
   <a href="https://www.lossantana.com/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #4394FF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://www.lossantana.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">Los Santana</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -84,7 +84,7 @@
   </a>
 
   <a href="https://www.nexusmii.com/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #7F7DFF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://www.nexusmii.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">NexusMii</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -92,7 +92,7 @@
   </a>
 
   <a href="https://www.cfinanciero.com/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #4394FF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://www.cfinanciero.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">C Financiero</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -100,7 +100,7 @@
   </a>
 
   <a href="https://www.comunidadreseteat.com/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #7F7DFF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://www.comunidadreseteat.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">Comunidad Reseteat</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -108,7 +108,7 @@
   </a>
 
   <a href="https://www.lopizzigayasociados.com.mx/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #4394FF; color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
+    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
       <img src="https://www.lopizzigayasociados.com.mx/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
       <span style="font-weight: 600;">Lopez Ziga y Asociados</span>
       <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
@@ -127,37 +127,19 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/A4GOD-AMHG">
-    <img src="./github-metrics/general.svg" alt="A4GOD-AMHG's GitHub Stats" />
-    <img src="./github-metrics/langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
 ### 🔥 GitHub Activity  
 <p align="center">
   <a href="https://github.com/A4GOD-AMHG">
-    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=4394FF&point=FFFFFF&area=true" />
+    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=9C27B0&point=FFFFFF&area=true" />
   </a>
 </p>
-
-### 📈 Quick Stats
-<div align="center">
-
-![Total Commits](https://img.shields.io/badge/Total%20Commits-4889-7F7DFF?style=for-the-badge&logo=git)
-![Total Repos](https://img.shields.io/badge/Total%20Repos-53-4a90e2?style=for-the-badge&logo=github)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-23-brightgreen?style=for-the-badge&logo=github)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-30-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-17-ff69b4?style=for-the-badge&logo=github)
-
-</div>
 
 ---
 
 ### 📫 Connect With Me  
 <p align="center">  
   <a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://github.com/A4GOD-AMHG"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
+  <a href="https://github.com/A4GOD-AMHG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/alexismhgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://www.facebook.com/alexismhgarcia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://x.com/alexismhgarcia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
