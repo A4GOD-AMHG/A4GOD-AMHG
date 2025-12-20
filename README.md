@@ -68,51 +68,27 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://compay.market/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://compay.market/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">Compay Market</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/Compay_Market-Visit_↗-9C27B0?style=for-the-badge&logo=https://compay.market/favicon.ico&logoColor=white&color=9C27B0" alt="Compay Market" />
   </a>
 
   <a href="https://www.lossantana.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://www.lossantana.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">Los Santana</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/Los_Santana-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.lossantana.com/favicon.ico&logoColor=white&color=9C27B0" alt="Los Santana" />
   </a>
 
   <a href="https://www.nexusmii.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://www.nexusmii.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">NexusMii</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/NexusMii-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.nexusmii.com/favicon.ico&logoColor=white&color=9C27B0" alt="NexusMii" />
   </a>
 
   <a href="https://www.cfinanciero.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://www.cfinanciero.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">C Financiero</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/Circulo_Financiero-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.cfinanciero.com/favicon.ico&logoColor=white&color=9C27B0" alt="C Financiero" />
   </a>
 
   <a href="https://www.comunidadreseteat.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #7F7DFF 0%, #9C27B0 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://www.comunidadreseteat.com/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">Comunidad Reseteat</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/Comunidad_Reseteat-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.comunidadreseteat.com/favicon.ico&logoColor=white&color=9C27B0" alt="Comunidad Reseteat" />
   </a>
 
   <a href="https://www.lopizzigayasociados.com.mx/" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #9C27B0 0%, #7F7DFF 100%); color: white; padding: 5px 15px; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-      <img src="https://www.lopizzigayasociados.com.mx/favicon.ico" width="24" height="24" style="border-radius: 4px; background: white; padding: 2px;" />
-      <span style="font-weight: 600;">Lopez Ziga y Asociados</span>
-      <span style="font-size: 12px; opacity: 0.9; margin-left: 5px;">Visit ↗</span>
-    </div>
+    <img src="https://img.shields.io/badge/Lopez_Ziga_y_Asociados-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.lopizzigayasociados.com.mx/favicon.ico&logoColor=white&color=9C27B0" alt="Lopez Ziga y Asociados" />
   </a>
 
 </div>
