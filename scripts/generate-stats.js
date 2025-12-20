@@ -36,9 +36,25 @@ async function makeGraphQLRequest(query, variables = {}) {
             });
             
             res.on('end', () => {
+                if (res.statusCode < 200 || res.statusCode >= 300) {
+                    console.error(`❌ HTTP Error: ${res.statusCode}`);
+                    console.error('Response body:', data);
+                    try {
+                        const json = JSON.parse(data);
+                        if (json.message) {
+                            console.error('API Message:', json.message);
+                        }
+                    } catch (e) {
+                        // Ignore parsing error for error responses
+                    }
+                    reject(new Error(`HTTP Error: ${res.statusCode}`));
+                    return;
+                }
+
                 try {
                     resolve(JSON.parse(data));
                 } catch (e) {
+                    console.error('❌ Failed to parse JSON response:', data);
                     reject(e);
                 }
             });
@@ -94,7 +110,12 @@ async function generateStats() {
         const response = await fetchUserData();
         
         if (response.errors) {
-            console.error('❌ GraphQL Error:', response.errors);
+            console.error('❌ GraphQL Error:', JSON.stringify(response.errors, null, 2));
+            process.exit(1);
+        }
+
+        if (!response.data || !response.data.user) {
+            console.error('❌ Unexpected response structure:', JSON.stringify(response, null, 2));
             process.exit(1);
         }
         
@@ -194,27 +215,35 @@ function generateSvg(stats) {
                 font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
                 fill: #FFFFFF;
             }
+            .border {
+                stroke: #30363D;
+                stroke-width: 1;
+            }
         </style>
-        <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0D1117" stroke="#00000000"/>
+        <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0D1117" class="border"/>
         <g transform="translate(25, 35)">
             <text x="0" y="0" class="header">Alexis's GitHub Stats</text>
         </g>
         <g transform="translate(0, 55)">
             <g transform="translate(25, 20)">
                 <text x="0" y="0" class="stat">Total Stars:</text>
-                <text x="150" y="0" class="value">${stats.total_stars}</text>
+                <text x="160" y="0" class="value">${stats.total_stars}</text>
             </g>
             <g transform="translate(25, 45)">
                 <text x="0" y="0" class="stat">Total Commits:</text>
-                <text x="150" y="0" class="value">${stats.total_commits}</text>
+                <text x="160" y="0" class="value">${stats.total_commits}</text>
             </g>
             <g transform="translate(25, 70)">
-                <text x="0" y="0" class="stat">Total Forks:</text>
-                <text x="150" y="0" class="value">${stats.total_forks}</text>
+                <text x="0" y="0" class="stat">Total Repos:</text>
+                <text x="160" y="0" class="value">${stats.total_repos} (${stats.private_repos} private)</text>
             </g>
             <g transform="translate(25, 95)">
                 <text x="0" y="0" class="stat">Followers:</text>
-                <text x="150" y="0" class="value">${stats.followers}</text>
+                <text x="160" y="0" class="value">${stats.followers}</text>
+            </g>
+            <g transform="translate(260, 20)">
+                <text x="0" y="0" class="stat">Total Forks:</text>
+                <text x="100" y="0" class="value">${stats.total_forks}</text>
             </g>
         </g>
     </svg>

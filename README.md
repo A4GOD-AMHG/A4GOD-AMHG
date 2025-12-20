@@ -13,11 +13,12 @@
 
 ### 🧑‍💻 About Me  
 - 🇨🇺 I'm **Alexis Manuel Hurtado García**, a Software Engineer from Cuba  
+- 🎂 I'm **26 years old** and have **6 years of experience** in the industry
 - 🌍 Bilingual: I speak **Spanish** and **English**  
-- 💡 I'm passionate about building **scalable applications** — web, mobile and desktop  
-- ⚙️ Main technologies: Dart, Flutter, HTML, CSS, JavaScript, TypeScript, Vue, React, Quasar, PHP, Laravel, Go (Golang), Node.js, Express, Next.js, Inertia  
-- 🖥️ I also build desktop apps with Go + Wails  
-- 🌱 I focus on clean architecture, patterns, full-stack development  
+- 💡 I'm passionate about building **scalable applications** and I love **refactoring code** to perfection 🚀
+- ⚙️ My favorite technologies are **Golang**, **Laravel**, **Vue**, and **Flutter**
+- 🖥️ I also work with Dart, TypeScript, React, Quasar, Node.js, Express, Next.js, Inertia, and build desktop apps with Go + Wails
+- 🌱 I focus on clean architecture, patterns, and full-stack development  
 
 ---
 
@@ -56,6 +57,31 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/wails/wails.svg" alt="Wails" width="70" height="70" style="margin: 8px;"/>
 </div>
 
+</div>
+
+---
+
+### 🚀 My Creations
+
+<div align="center">
+  <a href="https://compay.market/" target="_blank">
+    <img src="https://img.shields.io/badge/Compay%20Market-Visit-7F7DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Compay Market" />
+  </a>
+  <a href="https://www.lossantana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Los%20Santana-Visit-4394FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Los Santana" />
+  </a>
+  <a href="https://www.nexusmii.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NexusMii-Visit-7F7DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NexusMii" />
+  </a>
+  <a href="https://www.cfinanciero.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C%20Financiero-Visit-4394FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Circulo Financiero" />
+  </a>
+  <a href="https://www.comunidadreseteat.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Comunidad%20Reseteat-Visit-7F7DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Comunidad Reseteat" />
+  </a>
+  <a href="https://www.lopizzigayasociados.com.mx/" target="_blank">
+    <img src="https://img.shields.io/badge/Lopizzigay%20Asociados-Visit-4394FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lopizzigay Asociados" />
+  </a>
 </div>
 
 ---
