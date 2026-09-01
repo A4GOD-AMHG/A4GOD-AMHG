@@ -142,9 +142,9 @@
 
 <p align="center">
 
-![A4GOD-AMHG's GitHub stats](https://github-readme-stats-amhg.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+![A4GOD-AMHG's GitHub stats](https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-amhg.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
 </p>
 
