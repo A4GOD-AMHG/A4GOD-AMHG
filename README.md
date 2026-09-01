@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxt/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
 </div>
 
@@ -159,21 +160,9 @@
 
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark&tz=America/Havana)
 
 </p>
-
-> **Want private repo stats?** Deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-your-own) on Vercel with a GitHub PAT that has `repo` scope. Then replace the URLs above with your deployment.
-
-<details>
-<summary>How to include private repos in stats</summary>
-
-1. Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Create a GitHub Personal Access Token (Settings > Developer settings > Fine-grained tokens) with **repo** scope
-3. Deploy to Vercel and add the token as env var `GH_TOKEN`
-4. Use your Vercel URL: `https://your-deployment.vercel.app/api?username=A4GOD-AMHG&count_private=true&include_all_commits=true`
-
-</details>
 
 ---
 

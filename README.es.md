@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxt/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
 </div>
 
@@ -159,21 +160,9 @@
 
 ![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark)
 
-![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark)
+![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark&tz=America/Havana)
 
 </p>
-
-> **¿Quieres stats de repos privados?** Despliega tu propia instancia de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-your-own) en Vercel con un PAT de GitHub que tenga scope `repo`. Luego reemplaza las URLs de arriba con tu despliegue.
-
-<details>
-<summary>Cómo incluir repos privados en las estadísticas</summary>
-
-1. Haz fork de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Crea un Personal Access Token de GitHub (Settings > Developer settings > Fine-grained tokens) con scope **repo**
-3. Despliega en Vercel y agrega el token como variable de entorno `GH_TOKEN`
-4. Usa tu URL de Vercel: `https://tu-despliegue.vercel.app/api?username=A4GOD-AMHG&count_private=true&include_all_commits=true`
-
-</details>
 
 ---
 
