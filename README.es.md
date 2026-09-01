@@ -42,6 +42,8 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxt/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/astro/astro-original.svg" alt="Astro" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
@@ -58,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/djangorest/djangorest-original.svg" alt="Django" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/graphql/graphql-plain.svg" alt="GraphQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/grpc/grpc-original.svg" alt="gRPC" width="70" height="70" style="margin: 8px;"/>
 </div>
@@ -85,8 +86,6 @@
   <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=meta&logoColor=white" alt="Meta Ads" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat&logo=gohighlevel&logoColor=white" alt="GoHighLevel" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/astro/astro-original.svg" alt="Astro" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" width="70" height="70" style="margin: 8px;"/>
 </div>
 
@@ -141,27 +140,23 @@
 ### Estadísticas de GitHub
 
 <p align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-![Lenguajes Principales](https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
+  <img src="https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-git-master-diego-reverte-nutricion-salud.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Lenguajes Principales" />
 </p>
 
 <p align="center">
-
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&stroke=7F7DFF&ring=9C27B0&fire=9C27B0&currStreakLabel=FFFFFF&sideLabels=FFFFFF)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&stroke=7F7DFF&ring=9C27B0&fire=9C27B0&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="Racha de GitHub" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A4GOD-AMHG&theme=github_dark" alt="Detalles del Perfil" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark" alt="Repos por Lenguaje" />
+</p>
 
-![Detalles del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A4GOD-AMHG&theme=github_dark)
-
-![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark)
-
-![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark&tz=America/Havana)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark&tz=America/Havana" alt="Tiempo Productivo" />
 </p>
 
 ---
