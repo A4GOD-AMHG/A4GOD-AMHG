@@ -1,28 +1,30 @@
 <h1 align="center">
-  <span id="typed" style="color:#8605C2FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-     Hi 👋, I'm Alexis Manuel Hurtado García
+  <span style="color:#8605C2FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Hi, I'm Alexis Manuel Hurtado García
   </span>
 </h1>
-<h3 align="center" style="color:#8605C2FF;">💻 Cuban Software Engineer | Full-stack & Mobile Developer | Passionate about clean, scalable code 🚀</h3>
+<h3 align="center" style="color:#8605C2FF;">Cuban Software Engineer | Backend & DevOps | Microservices Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=Profile%20views&color=9C27B0&style=flat" alt="Profile views" />
+  <a href="README.es.md">🌐 Español</a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-- 🇨🇺 I'm **Alexis Manuel Hurtado García**, a Software Engineer from Cuba  
-- 🎂 I'm **26 years old** and have **6 years of experience** in the industry
-- 🌍 Bilingual: I speak **Spanish** and **English**  
-- 💡 I'm passionate about building **scalable applications** and I love **refactoring code** to perfection 🚀
-- ⚙️ My favorite technologies are **Golang**, **Laravel**, **Vue**, and **Flutter**
-- 🖥️ I also work with Dart, TypeScript, React, Quasar, Node.js, Express, Next.js, Inertia, and build desktop apps with Go + Wails
-- 🌱 I focus on clean architecture, patterns, and full-stack development  
+### About Me
+
+- I'm **Alexis Manuel Hurtado García**, a Software Engineer from **Cienfuegos, Cuba**
+- I'm **26 years old** with **7 years of experience** in the industry
+- Bilingual: I speak **Spanish** and **English**
+- I'm a big fan of **microservices architecture** and building scalable systems
+- Currently focused on **backend development** with **Laravel** and **GoLang**
+- I also do **DevOps** work — CI/CD pipelines, containerization, and infrastructure automation
+- I love refactoring code and clean architecture
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
@@ -37,86 +39,108 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Backend & Databases</h5>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
+  <h5>Backend</h5>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/php/php-original.svg" alt="PHP" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/laravel/laravel-original.svg" alt="Laravel" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 8px;"/>
+</div>
+
+<div style="flex-basis: 100%;">
+  <h5>Databases</h5>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/sqlite/sqlite-original.svg" alt="SQLite" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/supabase/supabase-original.svg" alt="Supabase" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Tools & Others</h5>
+  <h5>Tools & DevOps</h5>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/wails/wails.svg" alt="Wails" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=meta&logoColor=white" alt="Meta Ads" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat&logo=gohighlevel&logoColor=white" alt="GoHighLevel" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/OpenCode-6C63FF?style=flat&logo=robotframework&logoColor=white" alt="OpenCode" height="70" style="margin: 8px;"/>
 </div>
 
 </div>
 
 ---
 
-### 🚀 Projects I've Contributed To
+### Projects I've Contributed To
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://compay.market/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Compay_Market-Visit_↗-9C27B0?style=for-the-badge&logo=https://compay.market/favicon.ico&logoColor=white&color=9C27B0" alt="Compay Market" />
+    <img src="https://img.shields.io/badge/Compay_Market-Visit-9C27B0?style=for-the-badge&logo=https://compay.market/favicon.ico&logoColor=white&color=9C27B0" alt="Compay Market" />
   </a>
 
-  <a href="https://www.lossantana.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Los_Santana-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.lossantana.com/favicon.ico&logoColor=white&color=9C27B0" alt="Los Santana" />
+  <a href="https://palgao.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Palgao.com-Visit-9C27B0?style=for-the-badge&logo=https://palgao.com/favicon.ico&logoColor=white&color=9C27B0" alt="Palgao" />
   </a>
 
-  <a href="https://www.nexusmii.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/NexusMii-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.nexusmii.com/favicon.ico&logoColor=white&color=9C27B0" alt="NexusMii" />
+  <a href="https://www.inventarioplus.online/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Inventario_Plus-Visit-9C27B0?style=for-the-badge&logo=https://www.inventarioplus.online/favicon.ico&logoColor=white&color=9C27B0" alt="Inventario Plus" />
   </a>
 
-  <a href="https://www.cfinanciero.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Circulo_Financiero-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.cfinanciero.com/favicon.ico&logoColor=white&color=9C27B0" alt="C Financiero" />
+  <a href="https://davivienda.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Davivienda-Visit-9C27B0?style=for-the-badge&logo=https://davivienda.com/favicon.ico&logoColor=white&color=9C27B0" alt="Davivienda" />
   </a>
 
-  <a href="https://www.comunidadreseteat.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Comunidad_Reseteat-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.comunidadreseteat.com/favicon.ico&logoColor=white&color=9C27B0" alt="Comunidad Reseteat" />
-  </a>
-
-  <a href="https://www.lopizzigayasociados.com.mx/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Lopez_Ziga_y_Asociados-Visit_↗-9C27B0?style=for-the-badge&logo=https://www.lopizzigayasociados.com.mx/favicon.ico&logoColor=white&color=9C27B0" alt="Lopez Ziga y Asociados" />
+  <a href="https://emyux.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Emyux-Visit-9C27B0?style=for-the-badge&logo=https://emyux.com/favicon.ico&logoColor=white&color=9C27B0" alt="Emyux" />
   </a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/A4GOD-AMHG">
-    <img src="https://github-readme-stats-amhg.vercel.app/api?username=A4GOD-AMHG&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="A4GOD-AMHG's GitHub Stats" />
-    <img src="https://github-readme-stats-amhg.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Top Languages" />
+### Projects I Built
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://app.diegoreverte.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/app.diegoreverte.com-Visit-9C27B0?style=for-the-badge&logoColor=white&color=9C27B0" alt="Diego Reverte App" />
   </a>
+
+  <a href="https://vendors.ambcommunications.net/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Vendors_AMB-Visit-9C27B0?style=for-the-badge&logoColor=white&color=9C27B0" alt="AMB Vendors" />
+  </a>
+
+</div>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-amhg.vercel.app/api?username=A4GOD-AMHG&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="A4GOD-AMHG's GitHub Stats" />
+  <img src="https://github-readme-stats-amhg.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
-### 🔥 GitHub Activity  
 <p align="center">
-  <a href="https://github.com/A4GOD-AMHG">
-    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=A4GOD-AMHG&theme=github-dark&hide_border=true&bg_color=0D1117&color=7F7DFF&line=9C27B0&point=FFFFFF&area=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&stroke=7F7DFF&ring=9C27B0&fire=9C27B0&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect With Me  
-<p align="center">  
-  <a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://github.com/A4GOD-AMHG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/alexismhgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+### Connect With Me
+
+<p align="center">
+  <a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/A4GOD-AMHG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexismhgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/alexismhgarcia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://x.com/alexismhgarcia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/alexismhgarcia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
