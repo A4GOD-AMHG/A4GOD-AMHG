@@ -40,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
 </div>
 
@@ -58,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/djangorest/djangorest-original.svg" alt="Django" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/graphql/graphql-plain.svg" alt="GraphQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/grpc/grpc-original.svg" alt="gRPC" width="70" height="70" style="margin: 8px;"/>
 </div>
@@ -78,16 +77,16 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="70" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=meta&logoColor=white" alt="Meta Ads" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat&logo=gohighlevel&logoColor=white" alt="GoHighLevel" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/astro/astro-original.svg" alt="Astro" width="70" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/OpenCode-6C63FF?style=flat&logo=robotframework&logoColor=white" alt="OpenCode" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 </div>
