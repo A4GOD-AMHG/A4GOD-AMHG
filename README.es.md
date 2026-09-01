@@ -1,17 +1,16 @@
-<h1 align="center">
-  <span style="color:#8605C2FF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Hola, soy Alexis Manuel Hurtado García
-  </span>
-</h1>
-<h3 align="center" style="color:#8605C2FF;">Ingeniero de Software Cubano | Backend & DevOps | Fanático de los Microservicios</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=Profile%20views&color=9C27B0&style=flat" alt="Profile views" />
-  &nbsp;
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%8D_English-9C27B0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Switch to English" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/A4GOD-AMHG/A4GOD-AMHG/main/wave-bg.svg" width="100%" />
+
+<h1>Hola, soy Alexis Manuel Hurtado García</h1>
+
+<h3>Ingeniero de Software Cubano | Backend & DevOps | Fanático de los Microservicios | Spec Driven Development</h3>
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8D_English-9C27B0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Switch to English" />
+</a>
+
+</div>
 
 ---
 
@@ -21,7 +20,8 @@
 - Tengo **26 años** con **7 años de experiencia** en la industria
 - Bilingüe: Hablo **español** e **inglés**
 - Soy gran fanático de la **arquitectura de microservicios** y la construcción de sistemas escalables
-- Actualmente enfocado en **desarrollo backend** con **Laravel** y **GoLang**
+- Actualmente enfocado en **desarrollo backend** con **Laravel**, **GoLang** y **Python**
+- Practico **Spec Driven Development** — escribo la spec antes del código
 - También hago **DevOps** — pipelines de CI/CD, contenedorización y automatización de infraestructura
 - Me encanta refactorizar código y la arquitectura limpia
 
@@ -33,8 +33,6 @@
 
 <div style="flex-basis: 100%;">
   <h5>Frontend</h5>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/js/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 8px;"/>
@@ -44,9 +42,12 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
+</div>
+
+<div style="flex-basis: 100%;">
+  <h5>Mobile</h5>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
@@ -54,6 +55,12 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/php/php-original.svg" alt="PHP" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/laravel/laravel-original.svg" alt="Laravel" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/graphql/graphql-plain.svg" alt="GraphQL" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/grpc/grpc-original.svg" alt="gRPC" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
@@ -71,9 +78,15 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=meta&logoColor=white" alt="Meta Ads" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat&logo=gohighlevel&logoColor=white" alt="GoHighLevel" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" height="70" style="margin: 8px;"/>
+  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/OpenCode-6C63FF?style=flat&logo=robotframework&logoColor=white" alt="OpenCode" height="70" style="margin: 8px;"/>
 </div>
 
@@ -125,37 +138,43 @@
 
 ---
 
-### Trofeos de GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=A4GOD-AMHG&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-amhg.vercel.app/api?username=A4GOD-AMHG&show_icons=true&locale=es&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-amhg.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Lenguajes Principales" />
+
+![Estadísticas de GitHub](https://github-readme-stats-amhg.vercel.app/api?username=A4GOD-AMHG&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+
+![Lenguajes Principales](https://github-readme-stats-amhg.vercel.app/api/top-langs/?username=A4GOD-AMHG&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7F7DFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&stroke=7F7DFF&ring=9C27B0&fire=9C27B0&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="Racha de GitHub" />
+
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&stroke=7F7DFF&ring=9C27B0&fire=9C27B0&currStreakLabel=FFFFFF&sideLabels=FFFFFF)
+
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A4GOD-AMHG&theme=github_dark" alt="Resumen de Estadísticas" />
-  &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark" alt="Repos por Lenguaje" />
+
+![Detalles del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A4GOD-AMHG&theme=github_dark)
+
+![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A4GOD-AMHG&theme=github_dark)
+
+![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark)
+
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A4GOD-AMHG&theme=github_dark" alt="Tiempo Productivo" />
-</p>
+> **¿Quieres stats de repos privados?** Despliega tu propia instancia de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-your-own) en Vercel con un PAT de GitHub que tenga scope `repo`. Luego reemplaza las URLs de arriba con tu despliegue.
+
+<details>
+<summary>Cómo incluir repos privados en las estadísticas</summary>
+
+1. Haz fork de [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. Crea un Personal Access Token de GitHub (Settings > Developer settings > Fine-grained tokens) con scope **repo**
+3. Despliega en Vercel y agrega el token como variable de entorno `GH_TOKEN`
+4. Usa tu URL de Vercel: `https://tu-despliegue.vercel.app/api?username=A4GOD-AMHG&count_private=true&include_all_commits=true`
+
+</details>
 
 ---
 
