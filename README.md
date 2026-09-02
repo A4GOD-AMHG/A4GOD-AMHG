@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/A4GOD-AMHG/A4GOD-AMHG/main/wave-bg.svg" width="100%" style="margin-bottom: -20px;" />
 
-<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Alexis+Manuel+Hurtado+Garc%C3%ADa;Cuban+Software+Engineer+%7C+Backend+%26+DevOps;Microservices+Enthusiast+%7C+Spec+Driven+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I%27m+Alexis+Manuel+Hurtado+Garc%C3%ADa%3B+Cuban+Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
 
 </div>
 
