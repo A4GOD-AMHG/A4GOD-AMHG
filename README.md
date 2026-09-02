@@ -2,13 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/A4GOD-AMHG/A4GOD-AMHG/main/wave-bg.svg" width="100%" />
 
-<h1>Hi, I'm Alexis Manuel Hurtado García</h1>
+<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
 
-<h3>Cuban Software Engineer | Backend & DevOps | Microservices Enthusiast | Spec Driven Development</h3>
-
-<a href="README.es.md">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8D_Espa%C3%B1ol-9C27B0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Cambiar a Español" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=28&pause=1000&color=F06EA9&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Alexis+Manuel+Hurtado+Garc%C3%ADa;Cuban+Software+Engineer+%7C+Backend+%26+DevOps;Microservices+Enthusiast+%7C+Spec+Driven+Development" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -32,7 +30,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
 <div style="flex-basis: 100%;">
-  <h5>Frontend</h5>
+  <h3>Frontend</h3>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/js/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 8px;"/>
@@ -43,17 +41,17 @@
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxt/nuxtjs-original.svg" alt="Nuxt.js" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/astro/astro-original.svg" alt="Astro" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/HTMX-3CB371?style=flat&logo=htmx&logoColor=white" alt="HTMX" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/htmx/htmx-original.svg" alt="HTMX" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Mobile</h5>
+  <h3>Mobile</h3>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" width="70" height="70" style="margin: 8px;"/>
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Backend</h5>
+  <h3>Backend</h3>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/php/php-original.svg" alt="PHP" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/laravel/laravel-original.svg" alt="Laravel" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70" style="margin: 8px;"/>
@@ -65,7 +63,7 @@
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Databases</h5>
+  <h3>Databases</h3>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70" style="margin: 8px;"/>
@@ -75,17 +73,15 @@
 </div>
 
 <div style="flex-basis: 100%;">
-  <h5>Tools & DevOps</h5>
+  <h3>Tools & DevOps</h3>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="70" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/linux/archlinux-original.svg" alt="Arch Linux" width="70" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/n8n/n8n-original.svg" alt="n8n" width="70" height="70" style="margin: 8px;"/>
   <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=meta&logoColor=white" alt="Meta Ads" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/GoHighLevel-00C853?style=flat&logo=gohighlevel&logoColor=white" alt="GoHighLevel" height="70" style="margin: 8px;"/>
-  <img src="https://img.shields.io/badge/Inertia-7B2D8E?style=flat&logo=inertia&logoColor=white" alt="Inertia" height="70" style="margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/inertia/inertiajs-original.svg" alt="Inertia" width="70" height="70" style="margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" width="70" height="70" style="margin: 8px;"/>
 </div>
 
