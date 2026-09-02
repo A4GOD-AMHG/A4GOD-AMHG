@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Alexis+Manuel+Hurtado+Garc%C3%ADa%3B+Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
 </div>
 
-<div style="height: 10px;"></div>
+  <div style="height: 10px;"></div>
 
-<div align="center" style="min-height: 34px;">
+<div align="center" style="min-height: 50px;">
   <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=9C27B0&style=for-the-badge" alt="visitors" />
 </div>
 
