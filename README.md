@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/A4GOD-AMHG/A4GOD-AMHG/main/wave-bg.svg" width="100%" style="margin-bottom: -20px;" />
+<img src="https://raw.githubusercontent.com/A4GOD-AMHG/A4GOD-AMHG/main/wave-bg.svg" width="100%" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Alexis+Manuel+Hurtado+Garc%C3%ADa%3B+Cuban+Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
+<div style="height: 40px;"></div>
+
+<div align="center" style="min-height: 100px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Alexis+Manuel+Hurtado+Garc%C3%ADa%3B+Software+Engineer+%7C+Fullstack+Developer" alt="Typing SVG" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=9C27B0&style=for-the-badge" alt="visitors" />
+<div style="height: 10px;"></div>
+
+<div align="center" style="min-height: 34px;">
+  <img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitors&color=9C27B0&style=for-the-badge" alt="visitors" />
+</div>
 
 </div>
 
