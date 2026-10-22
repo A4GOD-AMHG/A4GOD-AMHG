@@ -41,22 +41,15 @@ Realtime multiplayer domino: 4-seat tables, solo and pairs, cash and all-in mode
 
 The widest-reaching project I've worked on: the e-commerce platform for sending products to families in Cuba. Catalog and stock by province and municipality, bundles and deals, USD payments and home delivery; **1,000+ products, 10,000+ customers and 25,000+ orders processed**.
 
+I was part of the development team as a **Frontend Developer**.
+
 Storefront, admin panel and supplier portal in Laravel + Inertia + Vue.
 
 <img src="https://img.shields.io/badge/Laravel_13-6D28D9?style=flat-square" alt="Laravel 13"/> <img src="https://img.shields.io/badge/Octane-6D28D9?style=flat-square" alt="Octane"/> <img src="https://img.shields.io/badge/Inertia-6D28D9?style=flat-square" alt="Inertia"/> <img src="https://img.shields.io/badge/Vue_3-6D28D9?style=flat-square" alt="Vue 3"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_4-6D28D9?style=flat-square" alt="Tailwind 4"/>
 
-## Inventario Plus
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/"><img src="./assets/inventario-plus.jpg" alt="Inventario Plus" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/store"><img src="./assets/inventario-plus-catalogos.jpg" alt="Inventario Plus — online catalogs" width="100%"/></a></td>
-</tr>
-</table>
-
-Online inventory and business management: product inventory, warehouses and stores, a log of every operation and **public online catalogs** for each business, with opening hours, contact and bookings. Used by real businesses in Cienfuegos.
-
 ## Featured work
+
+Both AMB projects were designed and built by me, end to end.
 
 <table>
 <tr>
@@ -80,6 +73,19 @@ Field operations platform: interactive project maps, jobs and labors, crews and 
 </td>
 </tr>
 </table>
+
+### Inventario Plus
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://www.inventarioplus.online/"><img src="./assets/inventario-plus.jpg" alt="Inventario Plus" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://www.inventarioplus.online/store"><img src="./assets/inventario-plus-catalogos.jpg" alt="Inventario Plus — online catalogs" width="100%"/></a></td>
+</tr>
+</table>
+
+Online inventory and business management: product inventory, warehouses and stores, a log of every operation and **public online catalogs** for each business, with opening hours, contact and bookings. Used by real businesses in Cienfuegos.
+
+I was part of the development team as a **Frontend Developer**.
 
 ### Other projects I built
 
@@ -151,22 +157,15 @@ Dominó multijugador en tiempo real: mesas de 4 asientos, individual y por parej
 
 El proyecto de mayor alcance en el que he trabajado: la plataforma de comercio electrónico para enviar productos a familias en Cuba. Catálogo y existencias por provincia y municipio, combos y ofertas, pagos en USD y entrega a domicilio; **más de 1.000 productos, 10.000 clientes y 25.000 órdenes procesadas**.
 
+Formé parte del equipo de desarrollo como **Frontend Developer**.
+
 Tienda, panel de administración y portal de proveedores en Laravel + Inertia + Vue.
 
 <img src="https://img.shields.io/badge/Laravel_13-6D28D9?style=flat-square" alt="Laravel 13"/> <img src="https://img.shields.io/badge/Octane-6D28D9?style=flat-square" alt="Octane"/> <img src="https://img.shields.io/badge/Inertia-6D28D9?style=flat-square" alt="Inertia"/> <img src="https://img.shields.io/badge/Vue_3-6D28D9?style=flat-square" alt="Vue 3"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_4-6D28D9?style=flat-square" alt="Tailwind 4"/>
 
-## Inventario Plus
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/"><img src="./assets/inventario-plus.jpg" alt="Inventario Plus" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/store"><img src="./assets/inventario-plus-catalogos.jpg" alt="Inventario Plus — catálogos online" width="100%"/></a></td>
-</tr>
-</table>
-
-Sistema de inventario y gestión de negocios en línea: inventario de productos, gestión de almacenes y tiendas, registro de todas las operaciones y **catálogos online públicos** para cada negocio, con horarios, contacto y reservaciones. Lo usan negocios reales de Cienfuegos.
-
 ## Proyectos destacados
+
+Los dos proyectos de AMB los diseñé y desarrollé yo, de principio a fin.
 
 <table>
 <tr>
@@ -190,6 +189,19 @@ Plataforma de operaciones de campo: mapas interactivos de proyectos, trabajos y 
 </td>
 </tr>
 </table>
+
+### Inventario Plus
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://www.inventarioplus.online/"><img src="./assets/inventario-plus.jpg" alt="Inventario Plus" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://www.inventarioplus.online/store"><img src="./assets/inventario-plus-catalogos.jpg" alt="Inventario Plus — catálogos online" width="100%"/></a></td>
+</tr>
+</table>
+
+Sistema de inventario y gestión de negocios en línea: inventario de productos, gestión de almacenes y tiendas, registro de todas las operaciones y **catálogos online públicos** para cada negocio, con horarios, contacto y reservaciones. Lo usan negocios reales de Cienfuegos.
+
+Formé parte del equipo de desarrollo como **Frontend Developer**.
 
 ### Otros proyectos que construí
 
