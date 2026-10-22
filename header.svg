@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Alexis Manuel Hurtado García — Software Engineer, CTO at Domino Real">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#160f2e"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5f3ff"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .name { font-size: 46px; font-weight: 800; }
+    .role { font-size: 22px; font-weight: 600; fill: #a78bfa; }
+    .tag { font-size: 16px; fill: #9ca3af; letter-spacing: 1px; }
+  </style>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <ellipse cx="600" cy="135" rx="520" ry="150" fill="url(#glow)"/>
+  <path fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.35" d="M0,250 C200,215 380,285 600,250 C820,215 1000,285 1200,245"/>
+  <path fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.2" d="M0,270 C220,240 400,300 620,268 C840,236 1010,296 1200,262"/>
+  <text x="600" y="120" text-anchor="middle" class="name" fill="url(#name)">Alexis Manuel Hurtado García</text>
+  <text x="600" y="162" text-anchor="middle" class="role">Software Engineer · CTO @ Domino Real</text>
+  <text x="600" y="200" text-anchor="middle" class="tag">BACKEND · FULLSTACK · DEVOPS — CIENFUEGOS, CUBA</text>
+</svg>
