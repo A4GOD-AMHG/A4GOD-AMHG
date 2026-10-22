@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="GitHub stats">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1235"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="839" height="229" rx="14" fill="url(#g)" stroke="#3b2a63"/>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.n{font-size:30px;font-weight:700;fill:#ffffff}.l{font-size:13px;fill:#ddd6fe}.t{font-size:12px;fill:#ddd6fe;letter-spacing:2px}.s{font-size:12px;fill:#e5e7eb}</style>
+<text x="28" y="36" class="t">GITHUB · PUBLIC + PRIVATE WORK</text>
+<text x="28" y="84" class="n">4,951</text>
+<text x="28" y="106" class="l">contributions</text>
+<text x="224" y="84" class="n">2,927</text>
+<text x="224" y="106" class="l">in 2026</text>
+<text x="420" y="84" class="n">76</text>
+<text x="420" y="106" class="l">repositories · 42 private</text>
+<text x="616" y="84" class="n">264</text>
+<text x="616" y="106" class="l">pull requests</text>
+<clipPath id="c"><rect x="28" y="134" width="784" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
+<rect x="28.0" y="134" width="239.2" height="10" fill="#3178c6"/>
+<rect x="266.7" y="134" width="140.2" height="10" fill="#41b883"/>
+<rect x="406.4" y="134" width="136.3" height="10" fill="#4F5D95"/>
+<rect x="542.2" y="134" width="117.1" height="10" fill="#00ADD8"/>
+<rect x="658.8" y="134" width="115.0" height="10" fill="#00B4AB"/>
+<rect x="773.3" y="134" width="39.2" height="10" fill="#f1e05a"/>
+</g>
+<circle cx="33" cy="170" r="5" fill="#3178c6"/>
+<text x="43" y="174" class="s">TypeScript 30%</text>
+<circle cx="163" cy="170" r="5" fill="#41b883"/>
+<text x="173" y="174" class="s">Vue 18%</text>
+<circle cx="240" cy="170" r="5" fill="#4F5D95"/>
+<text x="250" y="174" class="s">PHP 17%</text>
+<circle cx="318" cy="170" r="5" fill="#00ADD8"/>
+<text x="328" y="174" class="s">Go 15%</text>
+<circle cx="389" cy="170" r="5" fill="#00B4AB"/>
+<text x="399" y="174" class="s">Dart 15%</text>
+<circle cx="474" cy="170" r="5" fill="#f1e05a"/>
+<text x="484" y="174" class="s">JavaScript 5%</text>
+<text x="28" y="208" class="s">On GitHub since 2021 · updated 2026-10-22</text>
+</svg>

@@ -1,6 +1,6 @@
 name: stats
 
-# Regenerates stats.svg every day: totals of public + private work, never
+# Regenerates the stats and calendar cards (es + en) every day: totals of public + private work, never
 # a repository name. Needs the secret STATS_TOKEN: a classic personal access
 # token of A4GOD-AMHG with the `repo` and `read:user` scopes.
 
@@ -14,16 +14,16 @@ permissions:
 
 jobs:
   stats:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: python3 scripts/stats.py
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
       - name: Commit when it changed
         run: |
-          git diff --quiet stats.svg && exit 0
+          git diff --quiet -- '*.svg' && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update stats" stats.svg
+          git commit -m "chore: update stats" -- stats*.svg calendar*.svg
           git push

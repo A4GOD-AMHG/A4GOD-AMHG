@@ -1,103 +1,104 @@
+<p align="right"><b>Español</b> · <a href="README.en.md">English</a></p>
+
 <div align="center">
 
-<img src="./header.svg" alt="Alexis Manuel Hurtado García — Software Engineer · CTO @ Domino Real" width="100%"/>
+<img src="./header.svg" alt="Alexis Manuel Hurtado García" width="100%"/>
 
 <p align="center">
-<a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Hire_me-alexismhgarcia@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Contrátame-alexismhgarcia@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/alexismhgarcia/"><img src="https://img.shields.io/badge/LinkedIn-alexismhgarcia-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=profile+views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=A4GOD-AMHG&label=visitas&color=7C3AED&style=for-the-badge" alt="views"/>
 </p>
 
 </div>
 
-## 👋 About me
+## Sobre mí
 
-I'm **Alexis**, a Software Engineer from **Cienfuegos, Cuba** with **7 years** building production software, end to end: from the spec and the database to the mobile app and the server it runs on.
+Soy **Alexis**, ingeniero de software de **Cienfuegos, Cuba**, con **8 años de experiencia** (desde 2018) construyendo software en producción de punta a punta: desde la especificación y la base de datos hasta la app móvil y el servidor donde corre.
 
-- 🎲 **CTO at Domino Real** — I lead the whole platform: a realtime multiplayer domino game with its own chip economy.
-- 🧱 Backend first: **Go**, **Laravel** and **Python**; microservices, GraphQL, WebSockets, gRPC.
-- 📐 **Spec Driven Development** — the spec is written before the code, and the code is tested against it.
-- 🚀 **DevOps** — CI/CD, Docker, automated deploys, observability and Linux servers.
-- 🧹 I enjoy refactoring and clean architecture.
-- 🌎 Spanish and English.
+- **Director de Tecnología (CTO) en Domino Real**: lidero toda la plataforma, de la arquitectura al despliegue.
+- Backend primero: **Go**, **Laravel** y **Python**; microservicios, GraphQL, WebSockets y gRPC.
+- **Spec Driven Development**: la especificación se escribe antes que el código, y el código se prueba contra ella.
+- **DevOps**: CI/CD, Docker, despliegues automatizados, observabilidad y servidores Linux.
+- Me encanta refactorizar y la arquitectura limpia.
+- Hablo español e inglés.
 
-## 🎲 Domino Real — CTO
+## Domino Real — Director de Tecnología (CTO)
 
-<table>
-<tr><td>
+Dominó multijugador en tiempo real: mesas de 4 asientos, individual y por parejas, modos cash y all-in, clubes y uniones con una economía de fichas jerárquica (jugador → agente → super agente → club → unión) y un panel de administración completo.
 
-Realtime multiplayer domino: 4-seat tables, solo and pairs, cash and all-in modes, clubs and unions with a hierarchical chip economy (player → agent → super agent → club → union), and a full admin panel.
+- **Backend:** Go · Gin · gqlgen (GraphQL) · dos canales WebSocket con deltas mínimos por jugada y números de secuencia · PostgreSQL + PgBouncer · bus Redis · métricas Prometheus
+- **App:** Flutter (Android / iOS) · BLoC · mesa de juego en tiempo real, notificaciones push, deep links
+- **Admin y web:** panel Vue + Inertia embebido en el binario de Go · sitio público en Astro
+- **Ops:** Docker Compose, CI/CD con GitHub Actions hacia DigitalOcean, APKs firmados publicados automáticamente
 
-- **Backend:** Go · Gin · gqlgen (GraphQL) · two WebSocket channels with lean per-move deltas and sequence numbers · PostgreSQL + PgBouncer · Redis bus · Prometheus metrics
-- **App:** Flutter (Android / iOS) · BLoC · realtime game table, push notifications, deep links
-- **Admin & web:** Vue + Inertia admin panel embedded in the Go binary · Astro public site
-- **Ops:** Docker Compose, GitHub Actions CI/CD to DigitalOcean, automatic signed APK releases
+## Compay Market
 
-</td></tr>
-</table>
+<a href="https://compay.market/"><img src="./assets/compay-market.jpg" alt="Compay Market" width="100%"/></a>
 
-## 🛠️ Featured work
+El proyecto más grande en el que he trabajado: la plataforma de comercio electrónico para enviar productos a familias en Cuba. Catálogo y existencias por provincia y municipio, combos y ofertas, pagos en USD y entrega a domicilio; **más de 1.000 productos, 10.000 clientes y 25.000 órdenes procesadas**.
+
+Tienda en Next.js, panel de administración y portal de proveedores en Laravel + Inertia + Vue.
+
+<img src="https://img.shields.io/badge/Next.js_16-6D28D9?style=flat-square" alt="Next.js 16"/> <img src="https://img.shields.io/badge/React_19-6D28D9?style=flat-square" alt="React 19"/> <img src="https://img.shields.io/badge/Laravel_13-6D28D9?style=flat-square" alt="Laravel 13"/> <img src="https://img.shields.io/badge/Octane-6D28D9?style=flat-square" alt="Octane"/> <img src="https://img.shields.io/badge/Inertia-6D28D9?style=flat-square" alt="Inertia"/> <img src="https://img.shields.io/badge/Vue_3-6D28D9?style=flat-square" alt="Vue 3"/> <img src="https://img.shields.io/badge/Tailwind_4-6D28D9?style=flat-square" alt="Tailwind 4"/>
+
+## Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://www.ambcommunications.net/"><img src="./assets/amb-communications.jpg" alt="AMB Communications" width="100%"/></a>
 
-### [AMB Communications](https://www.ambcommunications.net/)
-Website and admin for a telecom and utility contractor in Florida: services, projects, careers with applicant tracking, bilingual (EN / ES), SEO.
+<h3><a href="https://www.ambcommunications.net/">AMB Communications</a></h3>
 
-<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-7C3AED?style=flat-square" alt="Laravel"/></a> <a href="https://inertiajs.com"><img src="https://img.shields.io/badge/Inertia_SSR-7C3AED?style=flat-square" alt="Inertia SSR"/></a> <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue_3-7C3AED?style=flat-square" alt="Vue 3"/></a> <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_4-7C3AED?style=flat-square" alt="Tailwind 4"/></a>
+Sitio web y panel de administración de un contratista de telecomunicaciones en Florida: servicios, proyectos, empleos con seguimiento de candidatos, bilingüe (EN / ES) y SEO.
 
+<img src="https://img.shields.io/badge/Laravel_13-6D28D9?style=flat-square" alt="Laravel 13"/> <img src="https://img.shields.io/badge/Inertia_SSR-6D28D9?style=flat-square" alt="Inertia SSR"/> <img src="https://img.shields.io/badge/Vue_3-6D28D9?style=flat-square" alt="Vue 3"/> <img src="https://img.shields.io/badge/Tailwind_4-6D28D9?style=flat-square" alt="Tailwind 4"/>
 </td>
 <td width="50%" valign="top">
+<a href="https://vendors.ambcommunications.net/"><img src="./assets/amb-vendors.jpg" alt="AMB Vendors" width="100%"/></a>
 
-### [AMB Vendors](https://vendors.ambcommunications.net/)
-Field operations platform: interactive project maps, jobs and labors, crews and vendors, 811 locates and tickets, invoicing, field photos and documents.
+<h3><a href="https://vendors.ambcommunications.net/">AMB Vendors</a></h3>
 
-<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-7C3AED?style=flat-square" alt="Laravel"/></a> <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue_3-7C3AED?style=flat-square" alt="Vue 3"/></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square" alt="TypeScript"/></a> <a href="https://reverb.laravel.com"><img src="https://img.shields.io/badge/Reverb-7C3AED?style=flat-square" alt="Reverb"/></a>
+Plataforma de operaciones de campo: mapas interactivos de proyectos, trabajos y labores, cuadrillas y proveedores, tickets 811, facturación, fotos y documentos de obra.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Diego Reverte App](https://app.diegoreverte.com/)
-Nutrition practice platform: a dietitian dashboard and a private patient portal.
-
-</td>
-<td width="50%" valign="top">
-
-### Contributed to
-[Compay Market](https://compay.market/) · [Palgao](https://palgao.com/) · [Inventario Plus](https://www.inventarioplus.online/) · [Davivienda](https://davivienda.com/) · [Emyux](https://emyux.com/)
-
+<img src="https://img.shields.io/badge/Laravel-6D28D9?style=flat-square" alt="Laravel"/> <img src="https://img.shields.io/badge/Vue_3-6D28D9?style=flat-square" alt="Vue 3"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square" alt="TypeScript"/> <img src="https://img.shields.io/badge/Reverb-6D28D9?style=flat-square" alt="Reverb"/>
 </td>
 </tr>
 </table>
 
-## 🧰 Tech stack
+### Otros proyectos que construí
+
+- **[Diego Reverte](https://app.diegoreverte.com/)** — Plataforma para una consulta de nutrición: panel del dietista y portal privado del paciente.
+- **[Reseteat](https://comunidadreseteat.com/)** — Comunidad terapéutica online: acompañamiento en procesos de adicción y crecimiento personal.
+
+**También participé en:** [Inventario Plus](https://www.inventarioplus.online/) · [Davivienda](https://davivienda.com/) · [Emyux](https://emyux.com/)
+
+## Tecnologías
 
 <table>
 <tr><td align="right"><b>Frontend</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/js/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nuxt/nuxtjs-original.svg" alt="Nuxt.js" title="Nuxt.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/astro/astro-original.svg" alt="Astro" title="Astro" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/htmx/htmx-original.svg" alt="HTMX" title="HTMX" width="40" height="40"/></td></tr>
-<tr><td align="right"><b>Mobile</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40"/></td></tr>
+<tr><td align="right"><b>Móvil</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40"/></td></tr>
 <tr><td align="right"><b>Backend</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/grpc/grpc-original.svg" alt="gRPC" title="gRPC" width="40" height="40"/></td></tr>
-<tr><td align="right"><b>Databases</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40"/></td></tr>
-<tr><td align="right"><b>Tools &amp; DevOps</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/linux/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/n8n/n8n-original.svg" alt="n8n" title="n8n" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/meta-ads/meta-original.svg" alt="Meta Ads" title="Meta Ads" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/inertia/inertiajs-original.svg" alt="Inertia" title="Inertia" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" title="OpenCode" width="40" height="40"/></td></tr>
+<tr><td align="right"><b>Bases de datos</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40"/></td></tr>
+<tr><td align="right"><b>Herramientas y DevOps</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/linux/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/n8n/n8n-original.svg" alt="n8n" title="n8n" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/meta-ads/meta-original.svg" alt="Meta Ads" title="Meta Ads" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/inertia/inertiajs-original.svg" alt="Inertia" title="Inertia" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" title="OpenCode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="40" height="40"/></td></tr>
 </table>
 
-## 📊 GitHub stats
+## Estadísticas de GitHub
 
 <div align="center">
 
-<img src="./stats.svg" alt="GitHub stats: contributions, repositories, pull requests and languages, private work included" width="100%"/>
+<img src="./stats.svg" alt="GitHub stats" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=A4GOD-AMHG&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=9CA3AF&stroke=3B2A63" alt="GitHub streak"/>
+<img src="./calendar.svg" alt="Contribution graph" width="100%"/>
 
-<sub>Private work counts as totals only: no repository is exposed.</sub>
+<sub>El trabajo privado solo cuenta como totales: no se expone ningún repositorio.</sub>
 
 </div>
 
-## 🤝 Let's work together
+## Trabajemos juntos
 
-Open to backend, fullstack and DevOps work — freelance or full time. The fastest way to reach me is email or WhatsApp.
+Disponible para trabajos de backend, fullstack y DevOps, freelance o a tiempo completo. La forma más rápida de contactarme es por email o WhatsApp.
 
 <p align="center">
   <a href="mailto:alexismhgarcia@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="GitHub stats">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#130f24"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1235"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="839" height="229" rx="14" fill="url(#g)" stroke="#3b2a63"/>
-<style>text{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.n{font-size:30px;font-weight:700;fill:#f5f3ff}.l{font-size:13px;fill:#a78bfa}.t{font-size:12px;fill:#c4b5fd;letter-spacing:2px}.s{font-size:12px;fill:#9ca3af}</style>
-<text x="28" y="36" class="t">GITHUB · PUBLIC + PRIVATE WORK</text>
-<text x="28" y="84" class="n">4,950</text>
-<text x="28" y="106" class="l">contributions</text>
-<text x="224" y="84" class="n">2,926</text>
-<text x="224" y="106" class="l">in 2026</text>
+<style>text{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.n{font-size:30px;font-weight:700;fill:#ffffff}.l{font-size:13px;fill:#ddd6fe}.t{font-size:12px;fill:#ddd6fe;letter-spacing:2px}.s{font-size:12px;fill:#e5e7eb}</style>
+<text x="28" y="36" class="t">GITHUB · TRABAJO PÚBLICO + PRIVADO</text>
+<text x="28" y="84" class="n">4.951</text>
+<text x="28" y="106" class="l">contribuciones</text>
+<text x="224" y="84" class="n">2.927</text>
+<text x="224" y="106" class="l">en 2026</text>
 <text x="420" y="84" class="n">76</text>
-<text x="420" y="106" class="l">repositories · 42 private</text>
+<text x="420" y="106" class="l">repositorios · 42 privados</text>
 <text x="616" y="84" class="n">264</text>
 <text x="616" y="106" class="l">pull requests</text>
 <clipPath id="c"><rect x="28" y="134" width="784" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
@@ -31,5 +31,5 @@
 <text x="399" y="174" class="s">Dart 15%</text>
 <circle cx="474" cy="170" r="5" fill="#f1e05a"/>
 <text x="484" y="174" class="s">JavaScript 5%</text>
-<text x="28" y="208" class="s">On GitHub for 5 years · updated 2026-10-22</text>
+<text x="28" y="208" class="s">En GitHub desde 2021 · actualizado 2026-10-22</text>
 </svg>
