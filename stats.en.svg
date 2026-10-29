@@ -3,9 +3,9 @@
 <rect x="0.5" y="0.5" width="839" height="229" rx="14" fill="url(#g)" stroke="#3b2a63"/>
 <style>text{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.n{font-size:30px;font-weight:700;fill:#ffffff}.l{font-size:13px;fill:#ddd6fe}.t{font-size:12px;fill:#ddd6fe;letter-spacing:2px}.s{font-size:12px;fill:#e5e7eb}</style>
 <text x="28" y="36" class="t">GITHUB · PUBLIC + PRIVATE WORK</text>
-<text x="28" y="84" class="n">5,059</text>
+<text x="28" y="84" class="n">5,068</text>
 <text x="28" y="106" class="l">contributions</text>
-<text x="224" y="84" class="n">3,035</text>
+<text x="224" y="84" class="n">3,044</text>
 <text x="224" y="106" class="l">in 2026</text>
 <text x="420" y="84" class="n">73</text>
 <text x="420" y="106" class="l">repositories · 39 private</text>
@@ -14,9 +14,9 @@
 <clipPath id="c"><rect x="28" y="134" width="784" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
 <rect x="28.0" y="134" width="232.6" height="10" fill="#3178c6"/>
 <rect x="260.1" y="134" width="143.4" height="10" fill="#41b883"/>
-<rect x="403.1" y="134" width="132.9" height="10" fill="#4F5D95"/>
-<rect x="535.5" y="134" width="119.6" height="10" fill="#00ADD8"/>
-<rect x="654.6" y="134" width="118.5" height="10" fill="#00B4AB"/>
+<rect x="403.0" y="134" width="132.9" height="10" fill="#4F5D95"/>
+<rect x="535.5" y="134" width="119.5" height="10" fill="#00ADD8"/>
+<rect x="654.5" y="134" width="118.6" height="10" fill="#00B4AB"/>
 <rect x="772.6" y="134" width="39.9" height="10" fill="#f1e05a"/>
 </g>
 <circle cx="33" cy="170" r="5" fill="#3178c6"/>
@@ -31,5 +31,5 @@
 <text x="399" y="174" class="s">Dart 15%</text>
 <circle cx="474" cy="170" r="5" fill="#f1e05a"/>
 <text x="484" y="174" class="s">JavaScript 5%</text>
-<text x="28" y="208" class="s">On GitHub since 2021 · updated 2026-10-28</text>
+<text x="28" y="208" class="s">On GitHub since 2021 · updated 2026-10-29</text>
 </svg>
