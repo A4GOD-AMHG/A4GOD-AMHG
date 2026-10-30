@@ -3,33 +3,33 @@
 <rect x="0.5" y="0.5" width="839" height="229" rx="14" fill="url(#g)" stroke="#3b2a63"/>
 <style>text{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}.n{font-size:30px;font-weight:700;fill:#ffffff}.l{font-size:13px;fill:#ddd6fe}.t{font-size:12px;fill:#ddd6fe;letter-spacing:2px}.s{font-size:12px;fill:#e5e7eb}</style>
 <text x="28" y="36" class="t">GITHUB · PUBLIC + PRIVATE WORK</text>
-<text x="28" y="84" class="n">5,068</text>
+<text x="28" y="84" class="n">5,108</text>
 <text x="28" y="106" class="l">contributions</text>
-<text x="224" y="84" class="n">3,044</text>
+<text x="224" y="84" class="n">3,084</text>
 <text x="224" y="106" class="l">in 2026</text>
-<text x="420" y="84" class="n">73</text>
-<text x="420" y="106" class="l">repositories · 39 private</text>
+<text x="420" y="84" class="n">83</text>
+<text x="420" y="106" class="l">repositories · 48 private</text>
 <text x="616" y="84" class="n">281</text>
 <text x="616" y="106" class="l">pull requests</text>
 <clipPath id="c"><rect x="28" y="134" width="784" height="10" rx="5"/></clipPath><g clip-path="url(#c)">
-<rect x="28.0" y="134" width="232.6" height="10" fill="#3178c6"/>
-<rect x="260.1" y="134" width="143.4" height="10" fill="#41b883"/>
-<rect x="403.0" y="134" width="132.9" height="10" fill="#4F5D95"/>
-<rect x="535.5" y="134" width="119.5" height="10" fill="#00ADD8"/>
-<rect x="654.5" y="134" width="118.6" height="10" fill="#00B4AB"/>
-<rect x="772.6" y="134" width="39.9" height="10" fill="#f1e05a"/>
+<rect x="28.0" y="134" width="216.7" height="10" fill="#3178c6"/>
+<rect x="244.2" y="134" width="153.0" height="10" fill="#00ADD8"/>
+<rect x="396.7" y="134" width="133.7" height="10" fill="#41b883"/>
+<rect x="529.9" y="134" width="123.8" height="10" fill="#4F5D95"/>
+<rect x="653.2" y="134" width="122.6" height="10" fill="#00B4AB"/>
+<rect x="775.3" y="134" width="37.2" height="10" fill="#f1e05a"/>
 </g>
 <circle cx="33" cy="170" r="5" fill="#3178c6"/>
-<text x="43" y="174" class="s">TypeScript 30%</text>
-<circle cx="163" cy="170" r="5" fill="#41b883"/>
-<text x="173" y="174" class="s">Vue 18%</text>
-<circle cx="240" cy="170" r="5" fill="#4F5D95"/>
-<text x="250" y="174" class="s">PHP 17%</text>
-<circle cx="318" cy="170" r="5" fill="#00ADD8"/>
-<text x="328" y="174" class="s">Go 15%</text>
+<text x="43" y="174" class="s">TypeScript 28%</text>
+<circle cx="163" cy="170" r="5" fill="#00ADD8"/>
+<text x="173" y="174" class="s">Go 19%</text>
+<circle cx="233" cy="170" r="5" fill="#41b883"/>
+<text x="243" y="174" class="s">Vue 17%</text>
+<circle cx="311" cy="170" r="5" fill="#4F5D95"/>
+<text x="321" y="174" class="s">PHP 16%</text>
 <circle cx="389" cy="170" r="5" fill="#00B4AB"/>
-<text x="399" y="174" class="s">Dart 15%</text>
+<text x="399" y="174" class="s">Dart 16%</text>
 <circle cx="474" cy="170" r="5" fill="#f1e05a"/>
 <text x="484" y="174" class="s">JavaScript 5%</text>
-<text x="28" y="208" class="s">On GitHub since 2021 · updated 2026-10-29</text>
+<text x="28" y="208" class="s">On GitHub since 2021 · updated 2026-10-30</text>
 </svg>
