@@ -25,12 +25,7 @@ I'm **Alexis**, a Software Engineer from **Cienfuegos, Cuba** with **8 years of 
 
 ## Domino Real — Chief Technology Officer
 
-<table>
-<tr>
-<td width="70%" valign="top"><a href="https://game.dominoreal.com/"><img src="./assets/domino-real-mesa.jpg" alt="Domino Real — table in the browser" width="100%"/></a></td>
-<td width="30%" valign="top"><a href="https://www.dominoreal.com/"><img src="./assets/domino-real-app.jpg" alt="Domino Real — mobile app" width="100%"/></a></td>
-</tr>
-</table>
+<a href="https://www.dominoreal.com/"><img src="./assets/domino-real.jpg" alt="Domino Real — dominoreal.com" width="100%"/></a>
 
 Realtime multiplayer domino to play with friends and clubs: solo, pairs and 1-vs-1 tables, with double-six, double-nine and Pintintín. Played from the **Android app** or right in the **browser** (iPhone too), with clubs, leaderboards and a full admin panel.
 

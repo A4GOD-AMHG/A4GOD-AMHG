@@ -25,12 +25,7 @@ Soy **Alexis**, ingeniero de software de **Cienfuegos, Cuba**, con **8 años de 
 
 ## Domino Real — Director de Tecnología (CTO)
 
-<table>
-<tr>
-<td width="70%" valign="top"><a href="https://game.dominoreal.com/"><img src="./assets/domino-real-mesa.jpg" alt="Domino Real — mesa en el navegador" width="100%"/></a></td>
-<td width="30%" valign="top"><a href="https://www.dominoreal.com/"><img src="./assets/domino-real-app.jpg" alt="Domino Real — app móvil" width="100%"/></a></td>
-</tr>
-</table>
+<a href="https://www.dominoreal.com/"><img src="./assets/domino-real.jpg" alt="Domino Real — dominoreal.com" width="100%"/></a>
 
 Dominó multijugador en tiempo real para jugar con amigos y clubes: mesas individuales, por parejas y 1 contra 1, con doble 6, doble 9 y Pintintín. Se juega desde la **app de Android** o directamente en el **navegador** (también en iPhone), con clubes, tablas de posiciones y un panel de administración completo.
 
