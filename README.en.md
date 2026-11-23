@@ -25,12 +25,25 @@ I'm **Alexis**, a Software Engineer from **Cienfuegos, Cuba** with **8 years of 
 
 ## Domino Real — Chief Technology Officer
 
-Realtime multiplayer domino: 4-seat tables, solo and pairs, cash and all-in modes, clubs and unions with a hierarchical chip economy (player → agent → super agent → club → union), and a full admin panel.
+<table>
+<tr>
+<td width="70%" valign="top"><a href="https://game.dominoreal.com/"><img src="./assets/domino-real-mesa.jpg" alt="Domino Real — table in the browser" width="100%"/></a></td>
+<td width="30%" valign="top"><a href="https://www.dominoreal.com/"><img src="./assets/domino-real-app.jpg" alt="Domino Real — mobile app" width="100%"/></a></td>
+</tr>
+</table>
+
+Realtime multiplayer domino to play with friends and clubs: solo, pairs and 1-vs-1 tables, with double-six, double-nine and Pintintín. Played from the **Android app** or right in the **browser** (iPhone too), with clubs, leaderboards and a full admin panel.
+
+<p>
+<a href="https://www.dominoreal.com/"><img src="https://img.shields.io/badge/Website-dominoreal.com-7C3AED?style=for-the-badge" alt="Website"/></a>
+<a href="https://downloads.dominoreal.com/domino-real-latest-universal.apk"><img src="https://img.shields.io/badge/Android-APK-5B21B6?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK"/></a>
+<a href="https://game.dominoreal.com/"><img src="https://img.shields.io/badge/Play-in_the_browser-6D28D9?style=for-the-badge" alt="Play in the browser"/></a>
+</p>
 
 - **Backend:** Go · Gin · gqlgen (GraphQL) · two WebSocket channels with lean per-move deltas and sequence numbers · PostgreSQL + PgBouncer · Redis bus · Prometheus metrics
-- **App:** Flutter (Android / iOS) · BLoC · realtime game table, push notifications, deep links
+- **App:** Flutter (Android / Web) · BLoC · realtime game table, push notifications, deep links
 - **Admin & web:** Vue + Inertia admin panel embedded in the Go binary · Astro public site
-- **Ops:** Docker Compose, GitHub Actions CI/CD to DigitalOcean, signed APKs published automatically
+- **Ops:** Docker Compose, GitHub Actions CI/CD, Cloudflare R2 for downloads, signed APKs published automatically
 
 ## Compay Market
 
@@ -71,25 +84,12 @@ Field operations platform: interactive project maps, jobs and labors, crews and 
 </tr>
 </table>
 
-### Inventario Plus
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/"><img src="./assets/inventario-plus.jpg" alt="Inventario Plus" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://www.inventarioplus.online/store"><img src="./assets/inventario-plus-catalogos.jpg" alt="Inventario Plus — online catalogs" width="100%"/></a></td>
-</tr>
-</table>
-
-Online inventory and business management: product inventory, warehouses and stores, a log of every operation and **public online catalogs** for each business, with opening hours, contact and bookings. Used by real businesses in Cienfuegos.
-
-I was part of the development team as a **Frontend Developer**.
-
 ### Other projects I built
 
 - **[Diego Reverte](https://app.diegoreverte.com/)** — Platform for a nutrition practice: a dietitian dashboard and a private patient portal.
 - **[Reseteat](https://comunidadreseteat.com/)** — Online therapeutic community: support for addiction recovery and personal growth.
 
-**Also contributed to:** [Davivienda](https://davivienda.com/) · [Emyux](https://emyux.com/)
+**Also contributed to:** [Inventario Plus](https://www.inventarioplus.online/) · [Davivienda](https://davivienda.com/) · [Emyux](https://emyux.com/)
 
 ## Tech stack
 
@@ -98,7 +98,7 @@ I was part of the development team as a **Frontend Developer**.
 <tr><td align="right"><b>Mobile</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40"/></td></tr>
 <tr><td align="right"><b>Backend</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/grpc/grpc-original.svg" alt="gRPC" title="gRPC" width="40" height="40"/></td></tr>
 <tr><td align="right"><b>Databases</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40"/></td></tr>
-<tr><td align="right"><b>Tools &amp; DevOps</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/linux/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/n8n/n8n-original.svg" alt="n8n" title="n8n" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/meta-ads/meta-original.svg" alt="Meta Ads" title="Meta Ads" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/inertia/inertiajs-original.svg" alt="Inertia" title="Inertia" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" title="OpenCode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="40" height="40"/></td></tr>
+<tr><td align="right"><b>Tools &amp; DevOps</b></td><td><img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/cloudflare-r2/cloudflare-r2-original.svg" alt="Cloudflare R2" title="Cloudflare R2" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/linux/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/n8n/n8n-original.svg" alt="n8n" title="n8n" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/meta-ads/meta-original.svg" alt="Meta Ads" title="Meta Ads" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/inertia/inertiajs-original.svg" alt="Inertia" title="Inertia" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/opencode/opencode-logo.svg" alt="OpenCode" title="OpenCode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/A4GOD-AMHG/Utils-for-repos/main/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="40" height="40"/></td></tr>
 </table>
 
 ## GitHub stats
